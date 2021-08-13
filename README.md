@@ -1,2 +1,2 @@
-# jsSrc
-Some .js files which are used frequently.
+# codeSrc
+Some .js and .css files which are used frequently.
